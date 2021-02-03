@@ -31,11 +31,10 @@ h4 span.small {
   /* INSERER LA PROPRIETE PERMETTANT D'AJOUTER DE L'ESPACE SUR LE CONTOUR INTéRIEUR DE LA CARTE  */
   padding: 30px;
   font-size: small;
+  margin: 20px auto;
   /* INSERER LA PROPRIETE PERMETTANT D'AJOUTER DE L'ESPACE A L'EXTéRIEUR DE LA CARTE SUR LA PARTIE HAUTE  */
-  margin: 30px;
-  border-top-style: outset;
-  /* INSERER LA PROPRIETE PERMETTANT D'AJOUTER UNE OMBRE AUX CARTES */
-  box-shadow: 0 15px 10px 0 rgba(0, 0, 0, 0.1);
+  /* INSERER LA PROPRIETE PERME+TTANT D'AJOUTER UNE OMBRE AUX CARTES */
+  box-shadow: 2px 2px 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 .is-not-expand ul {
